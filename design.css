@@ -1,0 +1,64 @@
+.calc
+{
+    border-radius: 30px;
+    width: 500px;
+    height: 600px;
+    background: black;
+    margin-left: 513px;
+    margin-top: 60px;
+}
+
+#screen
+{
+    border-radius: 17px;
+    width: 83%;
+    height: 50px;
+    margin-top: 18px;
+    margin-left: 38px;
+    pointer-events: none;
+    font-size: 23px;
+}
+
+.btn
+{
+    background-color: #ffffff;
+    width: 65px;
+    height: 60px;
+    margin-left: 34px;
+    margin-top: 38px;
+    color: black;
+    font-size: xx-large;
+    border-radius: 40px;
+}
+
+.btnClc
+{
+
+    width: 65px;
+    height: 60px;
+    margin-top: 38px;
+    background: black;
+    font-size: 32px;
+    margin-left: 33px;
+    color: white;
+    border-block-style: revert;
+    border-radius: 40px;
+
+}
+
+.btndel
+{
+    background-color: #409e91;
+    width: 65px;
+    height: 60px;
+    color: white;
+    font-size: xx-large;
+    margin-left: 242px;
+    border-radius: 40px;
+}
+  
+
+.button
+{
+    padding-left: 27px;
+}
